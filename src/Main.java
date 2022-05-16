@@ -15,7 +15,7 @@ public class Main {
 
         Integer largest = list.stream().max(Integer::compare).get();
 
-        System.out.println(largest);
+
 
 
     }
